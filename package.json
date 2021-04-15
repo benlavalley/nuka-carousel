@@ -11,7 +11,7 @@
     "d3-ease": "^2.0.0",
     "exenv": "^1.2.2",
     "prop-types": "^15.7.2",
-    "react-move": "^6.4.0",
+    "react-move": "github:benlavalley/react-move",
     "wicg-inert": "^3.1.1"
   },
   "devDependencies": {
